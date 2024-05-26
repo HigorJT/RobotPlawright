@@ -1,0 +1,160 @@
+{"level":30,"time":"2024-04-27T01:08:34.046Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Listening on 55657"}
+(node:17102) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2024-04-27T01:08:35.136Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:35.136Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:35.138Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:35.138Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:35.140Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2024-04-27T01:08:35.775Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Adding browser to stack: chromium, version: 123.0.6312.4"}
+{"level":30,"time":"2024-04-27T01:08:35.775Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method newBrowser"}
+{"level":30,"time":"2024-04-27T01:08:35.775Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2024-04-27T01:08:35.778Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-04-27T01:08:35.778Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-04-27T01:08:35.801Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2024-04-27T01:08:36.317Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Video path: undefined"}
+{"level":30,"time":"2024-04-27T01:08:36.317Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2024-04-27T01:08:36.808Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method newPage"}
+{"level":30,"time":"2024-04-27T01:08:41.824Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-04-27T01:08:41.824Z","pid":17102,"hostname":"Higors-MacBook-Air.local","Take screenshot with options: ":{"path":"/Users/higorjesus/Documents/QAx/projects/mark85-robot-express/logs/browser/screenshot/robotframework-browser-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-04-27T01:08:42.024Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-04-27T01:08:42.027Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:42.030Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:42.031Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:42.032Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:42.033Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2024-04-27T01:08:42.033Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changing current active page: page=759ff789-48d9-453b-a270-d896e7afba8f"}
+{"level":30,"time":"2024-04-27T01:08:42.033Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2024-04-27T01:08:42.038Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:42.039Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:42.039Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-04-27T01:08:42.040Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-04-27T01:08:42.040Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-04-27T01:08:42.041Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-04-27T01:08:42.042Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changing current active page: page=759ff789-48d9-453b-a270-d896e7afba8f"}
+{"level":30,"time":"2024-04-27T01:08:42.042Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2024-04-27T01:08:42.043Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:42.044Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:42.045Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2024-04-27T01:08:42.045Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changing current active page: page=759ff789-48d9-453b-a270-d896e7afba8f"}
+{"level":30,"time":"2024-04-27T01:08:42.045Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2024-04-27T01:08:42.048Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-04-27T01:08:42.077Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Removed page=a8fa08fd-db90-42ae-bf64-0170c5c6f2b9 from context=ba2f2882-c1b2-4529-85d6-5cc983e43de7 page stack"}
+{"level":30,"time":"2024-04-27T01:08:42.085Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-04-27T01:08:42.088Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:42.088Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:42.091Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:42.092Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:42.094Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:42.094Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:42.096Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-04-27T01:08:42.096Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-04-27T01:08:42.098Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-04-27T01:08:42.098Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-04-27T01:08:42.101Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2024-04-27T01:08:42.293Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Video path: undefined"}
+{"level":30,"time":"2024-04-27T01:08:42.293Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2024-04-27T01:08:42.846Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method newPage"}
+{"level":30,"time":"2024-04-27T01:08:42.855Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-04-27T01:08:42.855Z","pid":17102,"hostname":"Higors-MacBook-Air.local","Take screenshot with options: ":{"path":"/Users/higorjesus/Documents/QAx/projects/mark85-robot-express/logs/browser/screenshot/robotframework-browser-screenshot-2.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-04-27T01:08:43.021Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-04-27T01:08:43.024Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:43.025Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:43.025Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:43.026Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:43.027Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2024-04-27T01:08:43.027Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changing current active page: page=3a4ef5b6-bd2a-4743-8c93-7f7e3da904f7"}
+{"level":30,"time":"2024-04-27T01:08:43.027Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2024-04-27T01:08:43.034Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:43.034Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:43.036Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-04-27T01:08:43.036Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-04-27T01:08:43.037Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-04-27T01:08:43.037Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-04-27T01:08:43.037Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changing current active page: page=3a4ef5b6-bd2a-4743-8c93-7f7e3da904f7"}
+{"level":30,"time":"2024-04-27T01:08:43.037Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2024-04-27T01:08:43.039Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:43.040Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:43.041Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2024-04-27T01:08:43.041Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changing current active page: page=3a4ef5b6-bd2a-4743-8c93-7f7e3da904f7"}
+{"level":30,"time":"2024-04-27T01:08:43.041Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2024-04-27T01:08:43.042Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-04-27T01:08:43.048Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Removed page=b474bb2b-623e-4996-bfe2-257e5c9ff945 from context=e551e028-8544-456c-9bf9-8d9b9722455d page stack"}
+{"level":30,"time":"2024-04-27T01:08:43.053Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-04-27T01:08:43.054Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:43.054Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:43.056Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-04-27T01:08:43.056Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-04-27T01:08:43.058Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-04-27T01:08:43.058Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-04-27T01:08:43.062Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2024-04-27T01:08:43.241Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Video path: undefined"}
+{"level":30,"time":"2024-04-27T01:08:43.241Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2024-04-27T01:08:43.733Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method newPage"}
+{"level":30,"time":"2024-04-27T01:08:44.033Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method goTo"}
+{"level":30,"time":"2024-04-27T01:08:44.070Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method goTo"}
+{"level":30,"time":"2024-04-27T01:08:44.073Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-04-27T01:08:44.073Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2024-04-27T01:08:44.091Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-04-27T01:08:44.093Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2024-04-27T01:08:44.093Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2024-04-27T01:08:44.105Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Retrieved text for element css=h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-04-27T01:08:44.105Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2024-04-27T01:08:44.107Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-04-27T01:08:44.107Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2024-04-27T01:08:44.118Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method fillText"}
+{"level":30,"time":"2024-04-27T01:08:44.120Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-04-27T01:08:44.120Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#email in page."}
+{"level":30,"time":"2024-04-27T01:08:44.128Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method fillText"}
+{"level":30,"time":"2024-04-27T01:08:44.130Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-04-27T01:08:44.130Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#password in page."}
+{"level":30,"time":"2024-04-27T01:08:44.137Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method fillText"}
+{"level":30,"time":"2024-04-27T01:08:44.138Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2024-04-27T01:08:44.138Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Cadastrar\"] in page."}
+{"level":30,"time":"2024-04-27T01:08:44.186Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2024-04-27T01:08:44.188Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-04-27T01:08:44.188Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=.notice p in page."}
+{"level":30,"time":"2024-04-27T01:08:49.189Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Error of node method  waitForElementState"}
+================= Original suppressed error =================
+locator.waitFor: Timeout 5000ms exceeded.
+Call log:
+  [2m- waiting for locator('.notice p') to be visible[22m
+
+    at waitForElementState (/Users/higorjesus/Documents/QAx/projects/mark85-robot-express/.venv/lib/python3.12/site-packages/Browser/wrapper/index.js:9194:19)
+    at async PlaywrightServer.waitForElementsState (/Users/higorjesus/Documents/QAx/projects/mark85-robot-express/.venv/lib/python3.12/site-packages/Browser/wrapper/index.js:10708:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2024-04-27T01:08:49.194Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-04-27T01:08:49.194Z","pid":17102,"hostname":"Higors-MacBook-Air.local","Take screenshot with options: ":{"path":"/Users/higorjesus/Documents/QAx/projects/mark85-robot-express/logs/browser/screenshot/fail-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-04-27T01:08:49.371Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-04-27T01:08:49.376Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-04-27T01:08:49.376Z","pid":17102,"hostname":"Higors-MacBook-Air.local","Take screenshot with options: ":{"path":"/Users/higorjesus/Documents/QAx/projects/mark85-robot-express/logs/browser/screenshot/robotframework-browser-screenshot-3.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-04-27T01:08:49.519Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-04-27T01:08:49.521Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:49.522Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:49.522Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:49.523Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:49.524Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2024-04-27T01:08:49.524Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changing current active page: page=99c72848-2604-4dff-b3cf-e7dbe36dc67e"}
+{"level":30,"time":"2024-04-27T01:08:49.524Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2024-04-27T01:08:49.526Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:49.526Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:49.527Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-04-27T01:08:49.527Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-04-27T01:08:49.528Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-04-27T01:08:49.528Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-04-27T01:08:49.529Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changing current active page: page=99c72848-2604-4dff-b3cf-e7dbe36dc67e"}
+{"level":30,"time":"2024-04-27T01:08:49.529Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2024-04-27T01:08:49.534Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:49.535Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:49.536Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2024-04-27T01:08:49.536Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changing current active page: page=99c72848-2604-4dff-b3cf-e7dbe36dc67e"}
+{"level":30,"time":"2024-04-27T01:08:49.536Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2024-04-27T01:08:49.538Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-04-27T01:08:49.542Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Removed page=63272d09-2718-4d40-bc65-387cb532f991 from context=5fa71949-7d20-46fd-8def-516ec1e61360 page stack"}
+{"level":30,"time":"2024-04-27T01:08:49.552Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-04-27T01:08:49.555Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:49.555Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-27T01:08:49.570Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-04-27T01:08:49.612Z","pid":17102,"hostname":"Higors-MacBook-Air.local","msg":"End of node method closeAllBrowsers"}

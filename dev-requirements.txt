@@ -1,0 +1,5 @@
+# Arquivo de Requisitos de Desenvolvimento
+ 
+# Dependências para testes
+robotframework==7.0
+robotframework-browser
